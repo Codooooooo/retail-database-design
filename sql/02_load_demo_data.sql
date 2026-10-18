@@ -3,196 +3,196 @@ USE WalmartDB;
 
 LOAD DATA LOCAL INFILE 'data/demo/Customer.csv'
 INTO TABLE Customer
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/CustomerAddress.csv'
 INTO TABLE CustomerAddress
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/NormalCustomer.csv'
 INTO TABLE NormalCustomer
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/PremiumCustomer.csv'
 INTO TABLE PremiumCustomer
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Branch.csv'
 INTO TABLE Branch
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Department.csv'
 INTO TABLE Department
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Employee.csv'
 INTO TABLE Employee
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/EmployeeAddress.csv'
 INTO TABLE EmployeeAddress
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Staff.csv'
 INTO TABLE Staff
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Manager.csv'
 INTO TABLE Manager
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Task.csv'
 INTO TABLE Task
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/TaskAssignment.csv'
 INTO TABLE TaskAssignment
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Warehouse.csv'
 INTO TABLE Warehouse
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Supplier.csv'
 INTO TABLE Supplier
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Category.csv'
 INTO TABLE Category
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Product.csv'
 INTO TABLE Product
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Promotion.csv'
 INTO TABLE Promotion
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Orders.csv'
 INTO TABLE Orders
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Payment.csv'
 INTO TABLE Payment
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/CreditCard.csv'
 INTO TABLE CreditCard
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/Transactions.csv'
 INTO TABLE Transactions
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/OrderCustomerList.csv'
 INTO TABLE OrderCustomerList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/OrderProductList.csv'
 INTO TABLE OrderProductList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/PaymentList.csv'
 INTO TABLE PaymentList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/TransactionList.csv'
 INTO TABLE TransactionList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/PromotionList.csv'
 INTO TABLE PromotionList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/SupplierProductList.csv'
 INTO TABLE SupplierProductList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE 'data/demo/BranchSupplierList.csv'
 INTO TABLE BranchSupplierList
-FIELDS TERMINATED BY ','
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-SELECT 
-(SELECT COUNT(*) FROM Customer) AS numTuplesCustomer, 
-(SELECT COUNT(*) FROM CustomerAddress) AS numTuplesCustomerAddress, (SELECT COUNT(*) FROM NormalCustomer) AS numTuplesNormalCustomer, 
-(SELECT COUNT(*) FROM PremiumCustomer) AS numTuplesPremiumCustomer, (SELECT COUNT(*) FROM Branch) AS numTuplesBranch, 
-(SELECT COUNT(*) FROM Department) AS numTuplesDepartment, 
-(SELECT COUNT(*) FROM Employee) AS numTuplesEmployee, 
-(SELECT COUNT(*) FROM EmployeeAddress) AS numTuplesEmployeeAddress, 
-(SELECT COUNT(*) FROM Staff) AS numTuplesStaff, 
-(SELECT COUNT(*) FROM Manager) AS numTuplesManager, 
-(SELECT COUNT(*) FROM Task) AS numTuplesTask, 
-(SELECT COUNT(*) FROM TaskAssignment) AS numTuplesTaskAssignment, 
-(SELECT COUNT(*) FROM Warehouse) AS numTuplesWarehouse, 
-(SELECT COUNT(*) FROM Supplier) AS numTuplesSupplier, 
-(SELECT COUNT(*) FROM Category) AS numTuplesCategory, 
-(SELECT COUNT(*) FROM Product) AS numTuplesProduct, 
-(SELECT COUNT(*) FROM Promotion) AS numTuplesPromotion, 
-(SELECT COUNT(*) FROM Orders) AS numTuplesOrders, 
-(SELECT COUNT(*) FROM Payment) AS numTuplesPayment, 
-(SELECT COUNT(*) FROM CreditCard) AS numTuplesCreditCard, 
-(SELECT COUNT(*) FROM Transactions) AS numTuplesTransactions, 
-(SELECT COUNT(*) FROM OrderCustomerList) AS numTuplesOrderCustomerList, 
-(SELECT COUNT(*) FROM OrderProductList) AS numTuplesOrderProductList, 
-(SELECT COUNT(*) FROM PaymentList) AS numTuplesPaymentList, 
-(SELECT COUNT(*) FROM TransactionList) AS numTuplesTransactionList, 
-(SELECT COUNT(*) FROM PromotionList) AS numTuplesPromotionList, 
-(SELECT COUNT(*) FROM SupplierProductList) AS numTuplesSupplierProductList, 
+SELECT
+(SELECT COUNT(*) FROM Customer) AS numTuplesCustomer,
+(SELECT COUNT(*) FROM CustomerAddress) AS numTuplesCustomerAddress, (SELECT COUNT(*) FROM NormalCustomer) AS numTuplesNormalCustomer,
+(SELECT COUNT(*) FROM PremiumCustomer) AS numTuplesPremiumCustomer, (SELECT COUNT(*) FROM Branch) AS numTuplesBranch,
+(SELECT COUNT(*) FROM Department) AS numTuplesDepartment,
+(SELECT COUNT(*) FROM Employee) AS numTuplesEmployee,
+(SELECT COUNT(*) FROM EmployeeAddress) AS numTuplesEmployeeAddress,
+(SELECT COUNT(*) FROM Staff) AS numTuplesStaff,
+(SELECT COUNT(*) FROM Manager) AS numTuplesManager,
+(SELECT COUNT(*) FROM Task) AS numTuplesTask,
+(SELECT COUNT(*) FROM TaskAssignment) AS numTuplesTaskAssignment,
+(SELECT COUNT(*) FROM Warehouse) AS numTuplesWarehouse,
+(SELECT COUNT(*) FROM Supplier) AS numTuplesSupplier,
+(SELECT COUNT(*) FROM Category) AS numTuplesCategory,
+(SELECT COUNT(*) FROM Product) AS numTuplesProduct,
+(SELECT COUNT(*) FROM Promotion) AS numTuplesPromotion,
+(SELECT COUNT(*) FROM Orders) AS numTuplesOrders,
+(SELECT COUNT(*) FROM Payment) AS numTuplesPayment,
+(SELECT COUNT(*) FROM CreditCard) AS numTuplesCreditCard,
+(SELECT COUNT(*) FROM Transactions) AS numTuplesTransactions,
+(SELECT COUNT(*) FROM OrderCustomerList) AS numTuplesOrderCustomerList,
+(SELECT COUNT(*) FROM OrderProductList) AS numTuplesOrderProductList,
+(SELECT COUNT(*) FROM PaymentList) AS numTuplesPaymentList,
+(SELECT COUNT(*) FROM TransactionList) AS numTuplesTransactionList,
+(SELECT COUNT(*) FROM PromotionList) AS numTuplesPromotionList,
+(SELECT COUNT(*) FROM SupplierProductList) AS numTuplesSupplierProductList,
 (SELECT COUNT(*) FROM BranchSupplierList) AS numTuplesBranchSupplierList;
