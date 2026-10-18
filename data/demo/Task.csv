@@ -1,0 +1,11 @@
+taskID,taskName,taskType
+1,Restock shelves,stocking
+2,Inventory check,stocking
+3,Price update,stocking
+4,Customer service,cashiering
+5,Clean store,cleaning
+6,Product return,cashiering
+7,Order fulfillment,stocking
+8,Sales report analysis,others
+9,Promotion planning,others
+10,Vendor communication,others

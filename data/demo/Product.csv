@@ -1,0 +1,501 @@
+productID,productName,brand,price,cost,categoryID,warehouseID
+1,Oil - Margarine,Kraft,32.67,14.76,6,65
+2,Doilies - 12 Paper,Coca-Cola,12.7,45.31,21,11
+3,Bagelers - Cinn / Brown,Coca-Cola,45.2,2.36,14,62
+4,Soup - Knorr Chicken Gumbo,Campbell's,14.77,3.37,9,13
+5,Juice - Orange Concentrate,Hershey's,34.04,33.31,9,30
+6,Syrup - Chocolate,Hershey's,44.94,45.43,21,46
+7,Longos - Chicken Wings,Coca-Cola,64.97,45.46,13,88
+8,Mix - Cocktail Strawberry Daiquiri,Campbell's,62.65,33.04,17,44
+9,Propel Sport Drink,Kraft,30.51,18.11,16,78
+10,Veal - Inside Round / Top Lean,Campbell's,67.97,15.07,19,92
+11,Nut - Almond Blanched Whole,Campbell's,40.6,10.11,13,8
+12,Persimmons,Coca-Cola,71.45,34.8,21,30
+13,Trout - Hot Smkd Dbl Fillet,Kraft,70.88,26.56,19,92
+14,Pickles - Gherkins,General Mills,52.08,39.74,16,50
+15,Towels - Paper / Kraft,Kraft,43.79,11.85,16,13
+16,Soup Campbells - Italian Wedding,Kellogg's,83.9,31.44,12,46
+17,Beans - Black Bean Canned,Kellogg's,30.39,18.82,6,25
+18,Salmon - Canned,Nestle,38.35,36.23,17,28
+19,Sauce Tomato Pouch,Unilever,53.67,19.21,4,1
+20,Arctic Char - Fillets,Campbell's,31.64,34.1,3,96
+21,Lamb - Leg Bone In,Hershey's,38.36,46.12,10,11
+22,Foie Gras,Kraft,52.98,26.2,17,57
+23,The Pop Shoppe - Cream Soda,Nestle,10.07,47.01,11,35
+24,Extract - Lemon,Unilever,7.87,14.24,18,3
+25,Wine - Balbach Riverside,Kellogg's,89.68,7.92,6,70
+26,Poppy Seed,Procter & Gamble,98.77,40.65,14,81
+27,Table Cloth 62x120 White,Hershey's,38.22,38.67,15,65
+28,Soup - Cream Of Potato / Leek,PepsiCo,87.09,46.6,2,100
+29,Beer - Heinekin,Kraft,82.24,11.78,12,4
+30,Soup - Canadian Pea Dry Mix,Hershey's,58.61,5.31,11,79
+31,Apricots - Halves,Hershey's,58.28,46.55,17,56
+32,Cookies Almond Hazelnut,Hershey's,19.04,41.14,9,81
+33,Crab - Meat,Nestle,75.59,4.21,20,55
+34,Appetizer - Chicken Satay,Nestle,92.72,11.24,20,93
+35,Pasta - Elbows Macaroni Dry,Procter & Gamble,54.36,16,9,49
+36,Gingerale - Diet - Schweppes,Unilever,20.85,33.04,13,60
+37,Dates,Coca-Cola,30.69,9.91,8,12
+38,Bread - 10 Grain,Nestle,77.93,48.11,18,30
+39,Cheese - Bakers Cream Cheese,PepsiCo,21.84,37.31,19,93
+40,Yoghurt Tubes,Coca-Cola,46.83,29.93,4,20
+41,Cheese - Colby,Coca-Cola,29.37,45.65,6,53
+42,Cod - Salted Boneless,Nestle,10.02,5.03,9,11
+43,Beef - Striploin,Nestle,90.35,26.68,5,51
+44,Appetizer - Veg Assortment,Coca-Cola,84.59,35.28,9,14
+45,Rabbit - Whole,Hershey's,84.65,8.7,16,61
+46,Wine - Dubouef Macon - Villages,Hershey's,61.98,10.47,18,74
+47,Dill Weed - Dry,Hershey's,18.25,27.05,16,35
+48,Sauce Tomato Pouch,PepsiCo,70.14,12.58,10,100
+49,Myers Planters Punch,Coca-Cola,14.83,48.98,12,40
+50,Water - Spring 1.5lit,Nestle,22.31,10.36,16,88
+51,Tart - Pecan Butter Squares,PepsiCo,68.4,20.73,11,91
+52,Pepper - Cubanelle,Kraft,30.13,19.84,19,15
+53,V8 - Tropical Blend,Procter & Gamble,25.97,23.44,10,24
+54,Wine - Jaboulet Cotes Du Rhone,General Mills,58.92,9.83,1,30
+55,Milk - Chocolate 500ml,Procter & Gamble,47.06,23.79,6,40
+56,Soup - Verve - Chipotle Chicken,PepsiCo,16.08,38.97,15,71
+57,Soup - Campbells Broccoli,Kellogg's,48.65,31.22,11,16
+58,Fondant - Icing,PepsiCo,24.51,23.95,9,55
+59,Cod - Black Whole Fillet,General Mills,99.52,49.52,3,41
+60,Yogurt - Strawberry 175 Gr,Kraft,41.37,28.13,9,75
+61,Tea - Decaf Lipton,Procter & Gamble,68.98,14.13,21,56
+62,Gin - Gilbeys London Dry,Coca-Cola,9.47,24.39,17,72
+63,Olives - Stuffed,General Mills,71.04,20.22,3,24
+64,Bread - Assorted Rolls,Nestle,30.84,42.59,21,75
+65,Bread - Sour Batard,General Mills,60.84,47.06,7,20
+66,Miso Paste White,Kellogg's,36,12.66,7,27
+67,Cookie Choc,Kellogg's,45.84,35.04,2,70
+68,Pork - Shoulder,Procter & Gamble,19.08,45.01,3,97
+69,Water - Spring Water 355 Ml,Coca-Cola,34.23,38.21,7,29
+70,Beef - Tenderlion Center Cut,General Mills,46.55,11.12,17,71
+71,Soup - Campbellschix Stew,Coca-Cola,19.58,19.5,3,18
+72,Chicken - Soup Base,Procter & Gamble,26.18,28.09,15,33
+73,Sole - Fillet,Kellogg's,16.61,2.83,12,25
+74,Shiratamako - Rice Flour,Procter & Gamble,83.32,33.24,9,62
+75,Ice Cream - Chocolate,General Mills,60.14,14.97,2,41
+76,Cake Circle Foil Scallop,General Mills,28.26,31.61,14,79
+77,Lime Cordial - Roses,PepsiCo,22.88,19.77,4,11
+78,Rice - Long Grain,Kraft,79.02,32.17,1,18
+79,Chocolate Bar - Oh Henry,Procter & Gamble,89.87,27.13,12,46
+80,Table Cloth 90x90 Colour,Hershey's,80.28,13.92,8,63
+81,Chinese Foods - Thick Noodles,Procter & Gamble,34,6.45,21,16
+82,Pur Value,Unilever,74.75,31.76,18,20
+83,Sauce - Soya Dark,Kellogg's,42.96,38.72,20,51
+84,Cardamon Ground,PepsiCo,91.54,45.48,9,3
+85,Pants Custom Dry Clean,PepsiCo,7.57,20.38,6,66
+86,Creamers - 10%,Kraft,44.71,8.92,6,65
+87,Grapefruit - Pink,Hershey's,36.92,14.8,5,1
+88,Lamb - Loin Trimmed Boneless,Campbell's,60.49,41.16,15,67
+89,Allspice - Jamaican,Campbell's,36.31,20.88,11,86
+90,Creme De Cacao White,Coca-Cola,35.6,35.18,15,66
+91,Beef Flat Iron Steak,Campbell's,34.7,40.9,11,45
+92,Cheese - Wine,Kellogg's,19.69,42.04,19,85
+93,Water Tap,Kraft,60.24,37.35,15,90
+94,Pasta - Fusili Dry,Kellogg's,6.37,40.84,3,72
+95,Wine - Beaujolais Villages,Kraft,85.27,42.96,9,93
+96,Bread - Hot Dog Buns,General Mills,22.86,3.51,16,89
+97,Heavy Duty Dust Pan,Hershey's,36.38,49.84,6,30
+98,Broom And Brush Rack Black,Unilever,24.14,28.29,11,21
+99,Celery Root,Coca-Cola,43.67,48.38,7,57
+100,Nectarines,Kellogg's,74.16,21.96,14,51
+101,Bouq All Italian - Primerba,Hershey's,93.88,27.16,16,85
+102,Bread - Assorted Rolls,Nestle,80.92,36.73,15,62
+103,Leeks - Baby White,Unilever,12.2,42.38,4,35
+104,Lobster - Cooked,Nestle,48.06,48.97,21,80
+105,Squash - Butternut,Nestle,38.39,44.68,9,51
+106,Sauce - Demi Glace,Procter & Gamble,57.87,27.32,21,88
+107,Hummus - Spread,Nestle,57.06,6.14,9,39
+108,Muffin Mix - Oatmeal,Nestle,44.61,48.46,8,27
+109,Tomatoes - Grape,Campbell's,50.95,3.34,16,78
+110,Sausage - Andouille,PepsiCo,57.73,31.63,11,60
+111,Brownies - Two Bite Chocolate,General Mills,15.78,5.53,9,6
+112,Myers Planters Punch,Kraft,50.68,42.33,2,11
+113,Cheese - Cream Cheese,Kraft,17.45,30.21,1,30
+114,Wine - Black Tower Qr,Procter & Gamble,54.63,22.75,9,68
+115,Honey - Lavender,Coca-Cola,68.31,13.81,1,46
+116,Rum - Spiced Captain Morgan,PepsiCo,89.71,24.72,15,33
+117,Bread - Roll Whole Wheat,PepsiCo,85.47,19.43,16,32
+118,Muffin - Bran Ind Wrpd,Unilever,33.92,16.93,14,13
+119,Sobe - Berry Energy,General Mills,47.68,14.46,20,53
+120,Bacon Strip Precooked,Nestle,88.94,19.19,21,88
+121,Ginsing - Fresh,Coca-Cola,15.68,25.8,16,30
+122,Flour - Fast / Rapid,Kellogg's,63.69,42.16,17,71
+123,Mix Pina Colada,Nestle,47.21,37.59,11,25
+124,Carbonated Water - Wildberry,PepsiCo,96.98,40.06,10,40
+125,Soup - Campbells - Tomato,Kellogg's,47.16,39.58,18,56
+126,Shortbread - Cookie Crumbs,Procter & Gamble,37.9,43.21,18,27
+127,Coconut Milk - Unsweetened,General Mills,99.63,11.47,8,95
+128,Sauce - Roasted Red Pepper,Nestle,96.68,35.02,11,22
+129,Pasta - Lasagna Noodle Frozen,Kellogg's,48.9,42.99,4,93
+130,Wine - Savigny - Les - Beaune,Campbell's,68.06,30,19,84
+131,Nacho Chips,General Mills,94.09,10.16,17,53
+132,Soap - Mr.clean Floor Soap,Kraft,48.46,46.97,2,80
+133,Chicken - Leg Fresh,Kellogg's,34.36,45.34,21,2
+134,Bar Mix - Lemon,Kraft,97.28,20.38,15,44
+135,Flour - Buckwheat Dark,Kraft,59.46,17.64,19,85
+136,Cabbage - Green,PepsiCo,60.58,49.58,9,64
+137,Mousse - Passion Fruit,Unilever,34.68,32.28,5,39
+138,Wine - Mondavi Coastal Private,General Mills,21.17,4.36,2,56
+139,Artichoke - Fresh,Unilever,61.16,6.07,1,16
+140,Wine - Red Pinot Noir Chateau,Nestle,62.54,4.66,8,10
+141,Thermometer Digital,General Mills,25.32,32.88,16,9
+142,Eggs - Extra Large,Nestle,39.27,10.91,4,27
+143,Yogurt - Strawberry 175 Gr,Campbell's,68.86,45.4,12,90
+144,Water Tap,Procter & Gamble,96.43,8.77,5,96
+145,Aspic - Light,Kellogg's,86.81,12.45,12,51
+146,Bagelers,PepsiCo,61.02,25.04,8,58
+147,Nut - Pecan Halves,Unilever,38.96,34.26,5,72
+148,Rosemary - Dry,Unilever,34.95,8.65,20,40
+149,Bread - Raisin Walnut Oval,Hershey's,57.08,17.41,6,27
+150,Wine - Red Cooking,Campbell's,83.75,4.25,11,71
+151,Wine - White Pinot Grigio,Kellogg's,38.35,31.65,16,82
+152,Soup - Verve - Chipotle Chicken,Kellogg's,30.51,38.05,3,92
+153,Crackers - Melba Toast,Kellogg's,42.15,44.33,11,67
+154,Chips - Assorted,General Mills,5.47,36.48,1,35
+155,Croissant Raw - Mini,Procter & Gamble,94.93,30.43,11,96
+156,Cheese Cloth No 60,General Mills,27.37,2.08,1,49
+157,Soup - Campbells Beef Stew,Unilever,70.18,4.46,20,50
+158,Grapefruit - Pink,PepsiCo,69.12,36.63,2,37
+159,Bread Base - Italian,Coca-Cola,97.08,34.57,19,34
+160,Glycerine,Kellogg's,12.54,38.08,21,66
+161,Beef - Tenderloin Tails,Coca-Cola,88.43,26.8,9,78
+162,Tamarillo,General Mills,48.78,4.45,8,81
+163,Avocado,PepsiCo,5.91,34.98,12,56
+164,Nori Sea Weed,Kellogg's,9.9,8.49,21,66
+165,Pasta - Lasagna Noodle Frozen,PepsiCo,66.34,20.32,19,54
+166,Mini - Vol Au Vents,Nestle,25.22,38.23,14,19
+167,Apple - Delicious Red,Nestle,25.72,11.1,19,16
+168,Marjoram - Fresh,Kellogg's,46.73,49.94,20,43
+169,Toothpick Frilled,Unilever,56.29,31.7,17,13
+170,Wine La Vielle Ferme Cote Du,Hershey's,70.6,23.53,9,9
+171,Cheese - Cambozola,Kellogg's,25.71,28.97,10,68
+172,Beer - Fruli,PepsiCo,62.04,30.07,10,84
+173,Beef - Texas Style Burger,Hershey's,84.28,17.54,16,41
+174,V8 Pet,PepsiCo,83.65,42.16,10,31
+175,Chip - Potato Dill Pickle,Nestle,27.4,21.47,20,24
+176,Wine - Jafflin Bourgongone,Coca-Cola,17.85,18.01,2,8
+177,Bread - Roll Italian,Procter & Gamble,27.51,18.2,17,34
+178,Garlic - Elephant,Procter & Gamble,29.07,29.57,19,97
+179,Pan Grease,Kraft,92.81,46.49,1,32
+180,Herb Du Provence - Primerba,Hershey's,64.57,21.34,6,80
+181,Creme De Menthe Green,Procter & Gamble,37.66,16.57,10,99
+182,Apricots - Halves,Procter & Gamble,40.33,44.93,20,83
+183,Cheese - Brick With Pepper,Coca-Cola,89.57,9.13,10,9
+184,Doilies - 10 Paper,Nestle,65.95,42.8,13,24
+185,Sword Pick Asst,Kraft,29.35,11.51,19,32
+186,Wine - Alsace Gewurztraminer,Kraft,88.47,20.63,18,84
+187,Wine - Niagaravqa Reisling,Coca-Cola,47.28,15.05,21,31
+188,Veal - Inside Choice,Procter & Gamble,25.48,11.93,10,5
+189,Tea - Herbal Orange Spice,General Mills,68.63,42.81,1,1
+190,Tea - Lemon Green Tea,Procter & Gamble,70.22,49.75,20,65
+191,Bread - Crumbs Bulk,Hershey's,16.82,5,2,25
+192,Wine - Ice Wine,Coca-Cola,20.09,41.47,18,26
+193,Table Cloth 120 Round White,Kellogg's,58.3,43.04,10,57
+194,Spice - Chili Powder Mexican,Kellogg's,89.31,9.8,5,9
+195,Veal - Kidney,Unilever,61.54,20.31,8,97
+196,Table Cloth 54x72 Colour,Kraft,99.22,32.04,9,94
+197,Foam Cup 6 Oz,Campbell's,5.61,3.22,7,16
+198,Bread - Roll Calabrese,Hershey's,51.69,9.83,8,92
+199,Cheese - Victor Et Berthold,General Mills,50.27,26.22,16,67
+200,Onions - Vidalia,Unilever,26.92,4.31,15,78
+201,Horseradish Root,Kellogg's,64.45,47.77,10,45
+202,Venison - Ground,Nestle,95.91,25.54,15,28
+203,Clam - Cherrystone,General Mills,19.77,20.79,8,75
+204,Beets - Candy Cane Organic,Unilever,34.59,41.58,2,91
+205,Bread - Raisin Walnut Pull,Kellogg's,12.88,17.53,18,14
+206,Chicken - Leg Boneless,Procter & Gamble,78.26,34.08,9,79
+207,Mountain Dew,Nestle,72.4,19.83,18,62
+208,Table Cloth 90x90 Colour,Unilever,27.71,7.21,2,99
+209,Pickles - Gherkins,Kraft,77.12,49.25,3,76
+210,Waffle Stix,Hershey's,48.56,40.03,21,16
+211,Ham - Black Forest,PepsiCo,95.95,14.23,6,78
+212,Devonshire Cream,PepsiCo,6.52,13.72,9,17
+213,Cookies - Englishbay Wht,Unilever,98.41,5.23,14,7
+214,Foil - Round Foil,Kellogg's,75.2,27.02,17,96
+215,Lady Fingers,Kellogg's,14.95,11.13,6,36
+216,Fond - Chocolate,Hershey's,49.98,46.29,9,21
+217,Basil - Dry Rubbed,Hershey's,10,34.04,19,93
+218,Melon - Honey Dew,Kraft,27.7,40.71,3,34
+219,Turkey - Breast Double,Nestle,68.28,43.79,2,78
+220,Spinach - Packaged,Nestle,18.37,13.75,12,92
+221,Bread - Rosemary Focaccia,Nestle,39.3,49.65,4,59
+222,Yogurt - Banana 175 Gr,Campbell's,29,43.25,18,51
+223,Chips - Assorted,Hershey's,62.66,36.3,1,53
+224,Sprouts - Alfalfa,Coca-Cola,24.09,28.09,6,90
+225,Foam Cup 6 Oz,Unilever,83.33,28.36,10,7
+226,Tomatoes - Hot House,Unilever,53.44,27.05,14,76
+227,Rum - Spiced Captain Morgan,Procter & Gamble,56.3,26.07,13,91
+228,Chicken - Ground,Unilever,59.66,21.74,2,43
+229,Rootbeer,Coca-Cola,68.94,8.06,14,84
+230,Sole - Dover Whole Fresh,Nestle,61.02,41.51,20,18
+231,Potatoes - Fingerling 4 Oz,Nestle,25.62,12.28,17,29
+232,Pork - Chop Frenched,General Mills,34.55,46.41,11,17
+233,Table Cloth 91x91 Colour,Hershey's,17.71,44.74,4,43
+234,Wine - Zonnebloem Pinotage,Procter & Gamble,69.67,24.3,10,13
+235,Pepper - Red Bell,Campbell's,31.65,8.85,11,51
+236,Energy Drink - Franks Original,Unilever,74.87,14.97,3,53
+237,Sour Cream,Hershey's,84.97,48.89,7,47
+238,Vinegar - Champagne,Unilever,58.85,16.31,1,17
+239,Lettuce - Iceberg,General Mills,27.28,42.95,5,37
+240,Sprouts - China Rose,Coca-Cola,42.33,43.81,18,39
+241,Ezy Change Mophandle,Nestle,39.18,7.71,19,49
+242,Vodka - Hot Lnferno,General Mills,53.82,30.61,1,81
+243,Food Colouring - Red,Nestle,43.93,34.74,4,25
+244,Almonds Ground Blanched,Unilever,16.78,31.03,11,44
+245,Potatoes - Purple Organic,PepsiCo,24.67,32.17,10,94
+246,Smoked Paprika,Campbell's,35.09,47.91,15,45
+247,Soup - Campbells Pasta Fagioli,Unilever,37.39,10.79,10,95
+248,Tea - Herbal Orange Spice,Kellogg's,54.46,14.7,7,35
+249,Chocolate - Sugar Free Semi Choc,General Mills,31.7,10.23,10,58
+250,Pepper - Green Chili,Hershey's,39.17,11.45,10,1
+251,Lamb - Rack,General Mills,96.38,14.65,15,2
+252,Butter Ripple - Phillips,Procter & Gamble,43.04,5.87,8,63
+253,Cheese - Cheddar Old White,PepsiCo,27.7,15.32,3,19
+254,Lotus Root,Kellogg's,64.03,6.02,10,89
+255,Wooden Mop Handle,Procter & Gamble,54.69,46.91,1,9
+256,Magnotta Bel Paese Red,Procter & Gamble,62,23.42,14,93
+257,Jagermeister,Nestle,67,30.14,11,16
+258,Ham - Smoked Bone - In,PepsiCo,79.3,23.56,17,77
+259,Pie Shell - 5,Nestle,51.36,18.93,16,71
+260,Egg - Salad Premix,Kraft,17.18,25.16,19,43
+261,Soup - Campbells Beef Noodle,Campbell's,14.55,45.18,11,12
+262,Truffle - Peelings,Hershey's,30.09,44.13,17,61
+263,Coffee - 10oz Cup 92961,Procter & Gamble,5.78,5.07,12,12
+264,Corn - Mini,Procter & Gamble,50.55,49.57,18,73
+265,Laundry - Bag Cloth,Kellogg's,97.97,6.51,10,55
+266,Wine - Tio Pepe Sherry Fino,Hershey's,75.54,43.35,7,84
+267,Goldschalger,Hershey's,62.01,28.17,6,23
+268,Chocolate - Unsweetened,Campbell's,93.16,23.49,8,6
+269,Wine - Niagaravqa Reisling,Hershey's,58.19,48.98,8,61
+270,Goldschalger,Kellogg's,45.16,29.5,10,86
+271,Wheat - Soft Kernal Of Wheat,Coca-Cola,99.45,3.12,16,5
+272,Phyllo Dough,Kellogg's,37.6,23.59,14,34
+273,Wine - Cotes Du Rhone,Kellogg's,7.7,33.75,8,88
+274,Steampan - Half Size Shallow,Kellogg's,43.21,14.9,19,69
+275,Coffee - Decafenated,Procter & Gamble,69,37.56,17,38
+276,Phyllo Dough,Nestle,29.63,25.85,3,72
+277,Mix - Cocktail Strawberry Daiquiri,Coca-Cola,56.92,7.5,8,38
+278,Nut - Almond Blanched Sliced,Procter & Gamble,92.01,18.45,13,46
+279,Capers - Ox Eye Daisy,Campbell's,95.06,32.02,14,19
+280,Carroway Seed,Kellogg's,58.09,47.92,8,77
+281,Bar - Granola Trail Mix Fruit Nut,Nestle,35.95,30.02,19,63
+282,Bananas,Unilever,42.01,40.78,7,60
+283,Wine - Cousino Macul Antiguas,Coca-Cola,33.26,15.47,16,18
+284,Rye Special Old,Procter & Gamble,30.77,30.18,16,85
+285,Anisette - Mcguiness,Kellogg's,26.18,17.26,4,62
+286,Chocolate - Sugar Free Semi Choc,PepsiCo,49.17,28.15,3,68
+287,Squash - Pattypan Yellow,Campbell's,75.78,43.91,5,5
+288,Greens Mustard,Procter & Gamble,57.58,13.2,19,17
+289,Ham - Cooked Bayonne Tinned,Unilever,77.25,3.68,2,51
+290,Cake - Sheet Strawberry,Kraft,72.89,20.22,14,54
+291,Pork - Suckling Pig,PepsiCo,68.02,5.21,11,95
+292,Monkfish - Fresh,Procter & Gamble,99.66,21.28,15,10
+293,Trueblue - Blueberry,Hershey's,52.94,12.4,16,29
+294,Asparagus - Frozen,General Mills,40.06,27.81,4,18
+295,Madeira,PepsiCo,81.13,41.81,8,51
+296,Schnappes - Peach Walkers,Kraft,52.2,18.06,12,9
+297,Cheese - Goat,Coca-Cola,14.42,43.05,20,9
+298,Basil - Primerba Paste,Kellogg's,26.78,25.86,12,83
+299,Wine - Fino Tio Pepe Gonzalez,Nestle,68.51,6.15,18,54
+300,Oil - Truffle Black,PepsiCo,93.35,14.04,19,17
+301,Fennel - Seeds,General Mills,32.96,29.39,11,34
+302,Wine - Red Marechal Foch,Kraft,12.31,34.23,14,18
+303,Wine - Red Cooking,Kellogg's,52.41,15.51,18,74
+304,Mussels - Frozen,General Mills,44.47,47.43,21,88
+305,Carbonated Water - Raspberry,Hershey's,34.38,17.22,1,85
+306,Nacho Chips,Coca-Cola,23.6,49.77,1,83
+307,Danishes - Mini Raspberry,Coca-Cola,88.9,36.02,21,78
+308,Pecan Raisin - Tarts,Procter & Gamble,62.69,29.18,11,47
+309,Oranges - Navel 72,Nestle,65.25,40.08,7,7
+310,Buttons,Nestle,99.64,38.34,16,50
+311,Bread - Rolls Rye,Procter & Gamble,30.14,26,16,32
+312,Nut - Pecan Halves,Unilever,40.62,11.74,14,22
+313,Wine - Magnotta - Belpaese,Kraft,80.08,17.1,14,96
+314,Versatainer Nc - 9388,Procter & Gamble,64.03,26.44,2,42
+315,Bread - Bagels Mini,Hershey's,5.79,10.63,5,2
+316,Pepper - Red Finger Hot,Kraft,51.14,31.79,11,78
+317,Aspic - Amber,Hershey's,58.2,15,3,16
+318,Carrots - Mini Red Organic,General Mills,12.61,9.19,20,97
+319,Muffin Mix - Chocolate Chip,Kellogg's,69.7,30.69,12,82
+320,Wine - Cava Aria Estate Brut,Coca-Cola,19.54,19.47,2,26
+321,Chef Hat 20cm,Kellogg's,28.38,37.47,7,93
+322,Lychee,PepsiCo,29.27,48,13,75
+323,Wine - Malbec Trapiche Reserve,General Mills,67.22,6.09,5,92
+324,Snapple - Iced Tea Peach,Nestle,65.7,44.14,1,99
+325,Swiss Chard,Nestle,12.42,8.89,12,55
+326,Sage Ground Wiberg,PepsiCo,24.75,2.48,4,79
+327,Sausage - Andouille,Unilever,65.53,31.97,1,6
+328,Island Oasis - Peach Daiquiri,Kraft,20.33,22.15,19,83
+329,Chutney Sauce - Mango,Kraft,18.67,16.51,13,70
+330,Soup - Base Broth Chix,Coca-Cola,87.02,8.96,13,73
+331,Petit Baguette,Procter & Gamble,34.43,20.22,16,71
+332,Lemonade - Strawberry 591 Ml,Coca-Cola,71.62,18.4,21,61
+333,Soup - Verve - Chipotle Chicken,PepsiCo,17.95,43.56,1,62
+334,Ice Cream Bar - Hagen Daz,Kraft,97.58,48.48,8,94
+335,Cocoa Powder - Natural,Nestle,22.74,12.56,6,20
+336,Apple - Northern Spy,Hershey's,81.43,16.14,18,93
+337,Vermouth - White Cinzano,Kellogg's,9.81,48.54,4,51
+338,Wine - Jaboulet Cotes Du Rhone,Procter & Gamble,19.73,30.18,9,19
+339,Zucchini - Yellow,Coca-Cola,5.38,15.15,6,95
+340,Squid - Tubes / Tenticles 10/20,Hershey's,87.79,36.37,1,89
+341,Orange Roughy 6/8 Oz,Campbell's,85.76,8.54,13,32
+342,Coconut - Shredded Unsweet,Hershey's,56.38,19.22,19,20
+343,Bread - Petit Baguette,Coca-Cola,53.43,7.69,16,50
+344,Nut - Pistachio Shelled,Coca-Cola,30.55,28.65,13,54
+345,Bread Base - Gold Formel,Coca-Cola,89.94,25.17,1,81
+346,Juice - Apple 341 Ml,PepsiCo,12.99,32.64,7,33
+347,Bar Bran Honey Nut,General Mills,44.28,42.53,11,52
+348,Latex Rubber Gloves Size 9,Kraft,21.93,5.64,2,91
+349,Bread - Olive,General Mills,40.61,45.66,15,7
+350,Veal - Kidney,Kellogg's,11.43,8.52,10,35
+351,Tart Shells - Savory 4,Hershey's,7.85,40.83,21,53
+352,Apples - Sliced / Wedge,Coca-Cola,63.36,19.25,8,15
+353,Wine - Ice Wine,Kraft,90.49,38.76,3,94
+354,Catfish - Fillets,PepsiCo,61.35,34.59,1,81
+355,Pants Custom Dry Clean,Kellogg's,13.49,35.32,7,15
+356,Potatoes - Purple Organic,Hershey's,53.48,19.02,13,4
+357,Corn Meal,Kellogg's,42.42,41.66,19,6
+358,Eggs - Extra Large,Procter & Gamble,23.48,32.59,21,26
+359,Cookies Cereal Nut,Unilever,19.72,37.99,5,45
+360,Wine - Manischewitz Concord,Procter & Gamble,22.2,9.51,18,28
+361,Tomatoes - Vine Ripe Red,Coca-Cola,10.84,49.27,2,72
+362,V8 Splash Strawberry Banana,General Mills,51.31,33.76,9,77
+363,Squash - Acorn,Procter & Gamble,86,46.81,17,75
+364,Cheese - Bocconcini,Coca-Cola,41.88,10.09,15,23
+365,Ecolab - Ster Bac,Kellogg's,85.69,11.73,3,29
+366,Pork - Bacon Double Smoked,PepsiCo,97.91,2.1,10,85
+367,Cream - 18%,Hershey's,52.31,13.51,20,64
+368,Flour - Masa De Harina Mexican,Kraft,23.89,25.55,4,11
+369,Smoked Tongue,Procter & Gamble,12.81,34.46,7,31
+370,Black Currants,PepsiCo,37.15,41.97,18,7
+371,Yogurt - Strawberry 175 Gr,Hershey's,92.23,21.14,13,85
+372,Spinach - Baby,Nestle,29.59,3.56,15,7
+373,Wine - Zinfandel California 2002,Hershey's,78.14,19.73,6,46
+374,Dried Cranberries,Kraft,27.38,5.26,15,14
+375,Bread - Rolls Corn,Procter & Gamble,75.11,4.66,11,78
+376,Mushroom Morel Fresh,Hershey's,28.44,15.25,3,4
+377,Steampan - Foil,PepsiCo,66.86,24.49,1,96
+378,Mushroom - Lg - Cello,Procter & Gamble,80.94,48.43,6,32
+379,Coffee - Beans Whole,Hershey's,49.88,19.54,1,20
+380,Wine - Baron De Rothschild,Nestle,37.53,33.75,5,9
+381,Chocolate - Semi Sweet,Coca-Cola,28.19,18.11,4,15
+382,Soup Campbells Turkey Veg.,General Mills,11.36,45.68,10,2
+383,Bar - Granola Trail Mix Fruit Nut,Hershey's,62.51,40.13,15,33
+384,Beets - Pickled,Campbell's,69.77,49.8,20,49
+385,Phyllo Dough,Procter & Gamble,47.79,22.88,10,82
+386,Cookies Oatmeal Raisin,Nestle,46.42,13.7,20,83
+387,Vanilla Beans,Unilever,7.08,8.8,7,27
+388,Bag Stand,Campbell's,69.69,29.15,2,29
+389,Cognac - Courvaisier,Hershey's,64.01,44.58,14,13
+390,Spice - Paprika,Kraft,69.71,35.6,10,27
+391,Wasabi Paste,Nestle,36.46,36.87,7,87
+392,Cloves - Ground,Unilever,47.99,47.54,11,35
+393,Sping Loaded Cup Dispenser,Nestle,96.13,14,14,10
+394,Wine - Pinot Grigio Collavini,Coca-Cola,61.07,47.96,12,84
+395,Plate - Foam Bread And Butter,Unilever,23.89,18.95,9,71
+396,Longan,Kellogg's,96.06,7.33,18,47
+397,Pie Shells 10,Nestle,28.65,4.38,15,71
+398,Pork - Inside,Procter & Gamble,66.42,30.69,2,80
+399,Salt - Seasoned,Hershey's,20.67,15.5,17,52
+400,Chocolate Bar - Oh Henry,Kraft,61.61,19.16,19,22
+401,Nantucket - Pomegranate Pear,Kellogg's,36.86,38.04,2,27
+402,Tamarind Paste,PepsiCo,16.84,47.16,20,58
+403,Hinge W Undercut,Nestle,91.6,24.91,1,82
+404,Wine - Fat Bastard Merlot,Campbell's,27.93,22.72,10,29
+405,Pastry - Baked Cinnamon Stick,Campbell's,67.65,21.43,2,56
+406,Greens Mustard,Kraft,69.79,28.53,19,28
+407,Trueblue - Blueberry Cranberry,PepsiCo,65.14,40.26,2,78
+408,Chocolate - Sugar Free Semi Choc,Kraft,67.31,23.52,9,47
+409,Chinese Foods - Thick Noodles,Kellogg's,21.61,15.19,9,28
+410,Ham - Cooked Italian,General Mills,49.33,35.72,19,10
+411,Lettuce - Radicchio,Procter & Gamble,20.87,25.77,14,11
+412,Chutney Sauce - Mango,Hershey's,67.18,8.78,9,88
+413,Yogurt - Plain,PepsiCo,42.68,28.37,16,14
+414,Veal - Insides Grains,PepsiCo,21.33,11.07,1,73
+415,Crab - Dungeness Whole live,Campbell's,8.23,30.73,20,36
+416,Beef - Rouladin Sliced,Campbell's,44.54,15.21,13,76
+417,Scallops - In Shell,Campbell's,62.33,24.12,9,55
+418,Lumpfish Black,Kellogg's,52.37,42.01,3,64
+419,Appetizer - Mushroom Tart,General Mills,70.77,30.2,1,69
+420,Soupfoamcont12oz 112con,General Mills,61.49,35.66,20,75
+421,Chinese Lemon Pork,Nestle,75.81,46.28,9,8
+422,Clementine,Nestle,41.09,6.82,6,82
+423,Wine - Ice Wine,Coca-Cola,91.5,48.27,8,43
+424,Cheese Cloth No 60,General Mills,84.42,24.41,14,36
+425,Olives - Black Pitted,Kraft,23.48,40.21,21,32
+426,Beef Wellington,General Mills,63.78,29.47,7,51
+427,Napkin - Dinner White,Kraft,39.31,31.4,5,66
+428,Soup - Campbells Classic Chix,Kellogg's,12.98,44.93,18,89
+429,Hummus - Spread,General Mills,92.89,23.52,20,52
+430,Brandy - Bar,PepsiCo,65.19,16.96,5,36
+431,Pesto - Primerba Paste,Kraft,33.28,5.9,19,37
+432,Melon - Watermelon Seedless,Kellogg's,47.72,40.36,4,66
+433,Pork - Kidney,PepsiCo,61.88,4.36,17,28
+434,Trueblue - Blueberry Cranberry,PepsiCo,30.49,2.59,12,39
+435,Cake - Miini Cheesecake Cherry,Coca-Cola,89.4,32.64,16,93
+436,Isomalt,Nestle,81.07,36.95,12,99
+437,Coffee - Colombian Portioned,General Mills,54.44,23.76,12,36
+438,Mackerel Whole Fresh,Unilever,5.86,3.18,16,32
+439,Soup - Chicken And Wild Rice,Kraft,63.42,29.37,6,84
+440,Tray - Foam Square 4 - S,Kellogg's,92.32,32.97,4,29
+441,Tumeric,Campbell's,58.71,48.76,5,6
+442,Lotus Rootlets - Canned,Unilever,86.85,30.37,4,60
+443,Mountain Dew,Nestle,93.32,47.41,16,55
+444,Sugar - Brown,Unilever,32.41,20.3,3,67
+445,Placemat - Scallop White,Kellogg's,11.82,47.03,2,29
+446,Mushroom - Lg - Cello,Procter & Gamble,60.95,35.93,9,56
+447,Cafe Royale,Campbell's,56.99,13.96,9,23
+448,Crush - Orange 355ml,Kraft,99.63,45.01,1,45
+449,Samosa - Veg,Coca-Cola,37.71,24.79,6,91
+450,Wine - Magnotta - Red Baco,Hershey's,47.45,4.88,15,24
+451,Chicken - Leg / Back Attach,Kraft,29.7,37.07,13,76
+452,Towel Multifold,Campbell's,45.36,18.09,18,22
+453,Raspberries - Fresh,PepsiCo,76.36,17.21,7,86
+454,Apple - Delicious Red,Kraft,8.32,45.97,9,86
+455,Beans - Turtle Black Dry,Procter & Gamble,59.5,35.03,19,49
+456,Wine - Rosso Del Veronese Igt,Kellogg's,54.8,20.18,14,25
+457,Bread - Mini Hamburger Bun,PepsiCo,62.84,43.16,18,72
+458,Bagel - Sesame Seed Presliced,General Mills,31.02,49.06,15,8
+459,Soup Campbells,Hershey's,20.25,47.7,2,19
+460,Wine - White Ej Gallo,Coca-Cola,37.47,18.75,6,45
+461,Gherkin,Nestle,66.41,7.16,8,5
+462,Truffle Cups - Red,Hershey's,28.38,18.26,13,12
+463,Oats Large Flake,Unilever,46.12,26.38,17,61
+464,Petite Baguette,Coca-Cola,81.51,15.55,17,34
+465,Tomato Puree,General Mills,29.6,21.13,17,8
+466,Beer - Moosehead,Kraft,59.42,3.93,6,5
+467,Truffle Paste,Kraft,86.58,7.87,7,65
+468,Mushroom - Chanterelle Frozen,Coca-Cola,60.87,11.16,5,99
+469,Tomatoes,Nestle,10.93,42.39,19,33
+470,Sage - Ground,PepsiCo,93.21,4.2,15,9
+471,Soup Campbells,Coca-Cola,37.82,22.25,15,87
+472,Oven Mitts - 15 Inch,Hershey's,41.33,7.92,2,83
+473,Wine - Crozes Hermitage E.,Kraft,26.17,8.53,10,2
+474,Cake - Cheese Cake 9 Inch,Nestle,30.33,3.09,15,72
+475,Cape Capensis - Fillet,Kellogg's,51.89,3.39,5,23
+476,Squash - Pattypan Yellow,Unilever,34.04,31.05,5,38
+477,Bread - Roll Canadian Dinner,Unilever,27.35,26.69,11,37
+478,Venison - Ground,Nestle,11.67,35.61,5,53
+479,Shrimp - Baby Cold Water,Nestle,44.97,49.22,5,39
+480,Tumeric,General Mills,14.17,32.34,12,67
+481,Squash - Sunburst,Unilever,28.61,26.03,3,81
+482,Dried Apple,PepsiCo,42.36,15.47,17,18
+483,Nut - Walnut Chopped,Nestle,69.21,15.51,12,36
+484,Ecolab - Orange Frc Cleaner,Kraft,55.62,33.07,18,31
+485,Napkin - Beverage 1 Ply,Nestle,15.7,2.97,14,45
+486,Cabbage - Savoy,Coca-Cola,62.1,13.89,16,78
+487,Wine - Riesling Alsace Ac 2001,General Mills,56.73,40.48,19,41
+488,Hipnotiq Liquor,General Mills,30.82,37.26,14,87
+489,Longos - Grilled Veg Sandwiches,Nestle,12.71,49.7,21,36
+490,Napkin - Beverage 1 Ply,PepsiCo,90.32,2.09,1,89
+491,Asparagus - White Fresh,Kraft,53.6,25.45,9,81
+492,Dooleys Toffee,Kraft,87.12,9.46,4,91
+493,Squash - Pattypan Yellow,Hershey's,23.33,11.96,6,4
+494,Cafe Royale,Kellogg's,50.03,41.76,9,78
+495,Bar Bran Honey Nut,Kellogg's,76.69,31.25,4,16
+496,Veal - Heart,Nestle,18.6,43.78,13,37
+497,Tomatoes - Diced Canned,Kellogg's,86.61,37.7,10,27
+498,Pork - Sausage Medium,Kraft,48.64,15.14,14,33
+499,Chips - Potato Jalapeno,PepsiCo,73.64,47.51,2,94
+500,Pie Shell - 9,Kellogg's,44.45,44.36,12,58

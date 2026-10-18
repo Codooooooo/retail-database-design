@@ -1,0 +1,51 @@
+promotionID,promotionName,promotionType,discountPercent,startDate,endDate
+1,End of Season Clearance,1-free-1,5,2023-04-14,2023-05-31
+2,Spring Fling,cashback,10,2023-02-27,2023-08-04
+3,Summer Sale,1-free-1,50,2023-04-24,2023-07-11
+4,Black Friday Deals,cashback,30,2023-01-13,2023-05-02
+5,Memorial Day Blowout,discount,15,2023-03-18,2023-07-27
+6,Cyber Monday Madness,cashback,10,2023-03-31,2023-06-04
+7,Black Friday Deals,1-free-1,15,2023-01-23,2023-05-24
+8,Holiday Special,1-free-1,10,2023-01-01,2023-08-04
+9,Labor Day Sale,discount,5,2023-02-17,2023-07-19
+10,Cyber Monday Madness,1-free-1,30,2023-04-27,2023-06-01
+11,Labor Day Sale,cashback,15,2023-01-19,2023-08-18
+12,End of Season Clearance,1-free-1,10,2023-01-10,2023-07-19
+13,Summer Sale,discount,30,2023-02-21,2023-05-01
+14,Holiday Special,cashback,10,2023-01-09,2023-08-28
+15,Black Friday Deals,discount,5,2023-04-24,2023-05-18
+16,Back to School,discount,50,2023-04-23,2023-05-02
+17,Summer Sale,cashback,5,2023-03-12,2023-07-30
+18,Black Friday Deals,discount,5,2023-03-22,2023-07-04
+19,Back to School,discount,30,2023-04-24,2023-05-11
+20,New Year New You,discount,15,2023-01-20,2023-06-07
+21,Spring Fling,cashback,30,2023-02-01,2023-05-31
+22,End of Season Clearance,1-free-1,30,2023-01-15,2023-07-30
+23,Spring Fling,1-free-1,5,2023-02-28,2023-05-05
+24,Summer Sale,cashback,15,2023-04-24,2023-08-07
+25,Labor Day Sale,1-free-1,10,2023-04-16,2023-06-24
+26,Back to School,discount,10,2023-01-31,2023-06-08
+27,Holiday Special,1-free-1,15,2023-04-10,2023-06-20
+28,Memorial Day Blowout,1-free-1,5,2023-04-10,2023-08-05
+29,Memorial Day Blowout,cashback,5,2023-01-20,2023-08-22
+30,Cyber Monday Madness,1-free-1,30,2023-01-23,2023-05-13
+31,Labor Day Sale,discount,15,2023-02-08,2023-06-12
+32,New Year New You,1-free-1,15,2023-01-17,2023-06-08
+33,Holiday Special,discount,10,2023-04-08,2023-06-22
+34,Memorial Day Blowout,1-free-1,50,2023-04-14,2023-05-18
+35,Memorial Day Blowout,discount,30,2023-03-20,2023-07-29
+36,End of Season Clearance,discount,5,2023-04-25,2023-05-11
+37,End of Season Clearance,cashback,15,2023-02-09,2023-08-20
+38,Spring Fling,discount,30,2023-01-21,2023-05-27
+39,Holiday Special,1-free-1,50,2023-02-18,2023-06-28
+40,Labor Day Sale,cashback,30,2023-03-31,2023-07-24
+41,Memorial Day Blowout,1-free-1,15,2023-02-17,2023-06-04
+42,Back to School,cashback,50,2023-03-03,2023-05-15
+43,New Year New You,1-free-1,15,2023-01-26,2023-06-30
+44,Cyber Monday Madness,discount,50,2023-02-22,2023-05-06
+45,New Year New You,discount,5,2023-04-04,2023-07-29
+46,Summer Sale,cashback,5,2023-03-17,2023-07-17
+47,Spring Fling,discount,5,2023-01-31,2023-06-19
+48,Black Friday Deals,discount,10,2023-03-26,2023-07-01
+49,Memorial Day Blowout,1-free-1,5,2023-04-29,2023-05-15
+50,End of Season Clearance,cashback,50,2023-02-24,2023-05-23
